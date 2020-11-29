@@ -1,1 +1,3 @@
 # spaghetti
+
+![](/assets/preview.jpg)
