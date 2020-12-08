@@ -1,3 +1,3 @@
-# spaghetti
+# Spaghetti
 
 ![](/assets/preview.jpg)
